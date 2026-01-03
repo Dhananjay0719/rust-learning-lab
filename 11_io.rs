@@ -6,3 +6,4 @@ fn main(){
     io::stdin().read_line(&mut input).expect("User Input Failed");
     println!("User Input is {}",input);
 }
+
