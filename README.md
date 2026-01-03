@@ -25,7 +25,7 @@ Or, if using Cargo later:
 cargo run
 ```
 
-🎯 Purpose
+## 🎯 Purpose
 
 Learn Rust the right way 🧠
 
